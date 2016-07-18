@@ -1,0 +1,18 @@
+canvas {
+    border:6px solid black;
+    background:green;
+}
+
+h1 {
+	background-image: url("images/Background2.jpg");
+	border: 3px dashed blue;
+	color:white;
+	box-shadow: 6px 4px 6px red;
+	border-radius: 10px;
+	font-family: Montserrat, Monospace;
+	
+}
+
+body { 
+	background-image: url("images/Background.jpg");
+}
